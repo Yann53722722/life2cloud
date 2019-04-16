@@ -51,13 +51,6 @@ Email：lee_jianfeng@sjtu.edu.cn；主页：<http://www.life2cloud.com>；现正
 
 - [ngsjs](https://github.com/ngsjs/ngsjs)
 
-### 网页服务
-
-- [JhuangLab](http://bioinfo.rjh.com.cn/labs/jhuang/index.php)：PHP+Bootstrap构建的实验室主页
-- [life2cloud](https://life2cloud.com/)：基于[blogdown](https://github.com/rstudio/blogdown)构建的个人博客
-- [qap](http://bioinfo.rjh.com.cn/labs/jhuang/tools/qap/)：Django +Bootstrap构建的病毒准种分析软件项目的主页
-- [wQAP](http://bioinfo.rjh.com.cn/labs/jhuang/tools/qap/wqap)：一种基于Galaxy平台的病毒准种分析工具（搭建相关分析平台并运维相关服务）
-
 ## 出版物
 
 ### 英文
@@ -68,9 +61,8 @@ Email：lee_jianfeng@sjtu.edu.cn；主页：<http://www.life2cloud.com>；现正
 - #Bing Chen, #Lu Jiang, #Meng-Ling Zhong, **#Jian-Feng Li**, #Ben-Shang Li, Li-Jun Peng, Yu-Ting Dai, Bo-Wen Cui, Tian-Qi Yan, Wei-Na Zhang, Xiang-Qin Weng, Yin-Yin Xie, Jing Lu, Rui-Bao Ren, Su-Ning Chen, Jian-Da Hu, De-Pei Wu, Zhu Chen, Jing-Yan Tang, Jin-Yan Huang, Jian-Qing Mi, and Sai-Juan Chen. Identification of fusion genes and characterization of transcriptome features in T-cell acute lymphoblastic leukemia. **Proceedings of the National Academy of Sciences**. 2017. doi:10.1073/pnas.1717125115. PubMed PMID: 29279377.
 - **#Jianfeng Li**, #Bowen Cui, Yuting Dai, Ling Bai, Jinyan Huang. BioInstaller: a comprehensive R package to construct interactive and reproducible biological data analysis applications based on the R platform. **Peerj**. 2018 Oct;6:e5853. doi: 10.7717/peerj.5853. PubMed PMID: 30402350 PMCID: PMC6215441
 - **#Jian-Feng Li**, #Yu-Ting Dai, #Henrik Lilljebjörn, Shu-Hong Shen, Bo-Wen Cui, Ling Bai, Yuan-Fang Liu, Mao-Xiang Qian, Yasuo Kubota, Hitoshi Kiyoi, Itaru Matsumura, Yasushi Miyazaki, Linda Olsson, Ah Moy Tan, Hany Ariffin, Jing Chen, Junko Takita, Takahiko Yasuda, Hiroyuki Mano, Bertil Johansson, Jun J. Yang, Allen Eng-Juh Yeoh, Fumihiko Hayakawa, Zhu Chen, Ching-Hon Pui, Thoas Fioretos, Sai-Juan Chen, Jin-Yan Huang. Transcriptional landscape of B cell precursor acute lymphoblastic leukemia based on an international study of 1,223 cases. **Proceedings of the National Academy of Sciences**. 2018. doi:10.1073/pnas.1814397115. PubMed PMID: 30487223
-- QAP: an integrated software for virus community sequencing data analysis. (Co-first 3rd, Submitted, 2018)
-- annovarR: a variant annotation and visualization system based on R and Shiny framework (Co-first 1st, Preparing, 2019)
-- A set of command line tools/workflows and R shiny plugins for exploring next-generation sequencing data. (Preparing, 2019)
+- Dawei Wang, Guowei Zhang, Junjie Gu, Xiaohu Shao, Yuting Dai, **Jianfeng Li**, Xiaohong Pan, Shuxian Yao, Aining Xu, Ying Jin, Jinyan Huang, Qizhen Shi, Jiang Zhu, Xiaodong Xi, Zhu Chen, and Saijuan Chen. In vivo generated hematopoietic stem cells from genome edited induced pluripotent stem cells are functional in platelet-targeted gene therapy of murine hemophilia A. **Haematologica**. 2019. doi: 10.3324/haematol.2019.219089. PubMed PMID: 31296582
+- Yi Zhou, Xingli Zhu, Yuting Dai, Shumin Xiong, Chuijin Wei, Pei Yu, Yuewen Tang, Liang Wu, **Jianfeng Li**, Dan Liu, Yanlin Wang, Zhu Chen, Sai-Juan Chen,Jinyan Huang, and Lin Cheng, Chemical Cocktail Induces Hematopoietic Reprogramming and Expands Hematopoietic Stem/Progenitor Cells. **Advanced Science**. 2019, 1901785. doi: 10.1002/advs.201901785
 
 #### 会议论文
 
