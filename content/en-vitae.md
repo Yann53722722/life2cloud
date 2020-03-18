@@ -32,24 +32,19 @@ Good at genomics-related data analysis (DNA-seq and RNA-seq-based)
 - Application: Adobe Photoshop / Illustrator / Premiere / After Effects / Dreamweaver; Office [Undergraduate Faculty of Propaganda Department, Graduate First Year Postgraduate Association Propaganda Department]; new media;
 - Operating system: Daily use of Windows, Centos, Ubuntu
 
-## Software package
+## Open source package
 
-### R package
-
-As lead author:
-
-- [configr](https://github.com/Miachol/configr): Implements the JSON, INI, YAML and TOML parser for R setting and writing of configuration file.
-- [BioInstaller](https://github.com/JhuangLab/BioInstaller): A comprehensive R package to construct interactive and reproducible biological data analysis applications based on the R platform. It also can be used to install and download massive bioinformatics analysis softwares and databases, such as NGS reads mapping tools with its required databases.
-- [ngstk](https://github.com/JhuangLab/ngstk): Can be used to facilitate the analysis of NGS data, such as visualization, conversion of data format for WEB service input and other purpose.
-- [annovarR](https://github.com/JhuangLab/annovarR):Provides R functions as well as database resources which offer an integrated framework to annotate genetic variants from genome and transcriptome data.
-
-### Python package
-
-- [iseq](https://github.com/JhuangLab/iseq):A integrated analysis toolkits and pipeline for NGS panel sequencing data
-
-### Node package
-
+- [configr](https://github.com/Miachol/configr)
+- [BioInstaller](https://github.com/JhuangLab/BioInstaller)
+- [ngstk](https://github.com/JhuangLab/ngstk)
+- [annovarR](https://github.com/JhuangLab/annovarR)
+- [iseq](https://github.com/JhuangLab/iseq)
 - [ngsjs](https://github.com/ngsjs/ngsjs)
+- [bget](https://github.com/openbiox/bget)
+- [bioctl](https://github.com/openbiox/bioextr)
+- [bioctl](https://github.com/openbiox/bioctl)
+- [ligo](https://github.com/openbiox/ligo)
+- [bioshiny](https://github.com/openbiox/bioshiny)
 
 ## Publication
 
@@ -62,7 +57,8 @@ As lead author:
 - **#Jianfeng Li**, #Bowen Cui, Yuting Dai, Ling Bai, Jinyan Huang. BioInstaller: a comprehensive R package to construct interactive and reproducible biological data analysis applications based on the R platform. **Peerj**. 2018 Oct;6:e5853. doi: 10.7717/peerj.5853. PubMed PMID: 30402350 PMCID: PMC6215441
 - **#Jian-Feng Li**, #Yu-Ting Dai, #Henrik Lilljebjörn, Shu-Hong Shen, Bo-Wen Cui, Ling Bai, Yuan-Fang Liu, Mao-Xiang Qian, Yasuo Kubota, Hitoshi Kiyoi, Itaru Matsumura, Yasushi Miyazaki, Linda Olsson, Ah Moy Tan, Hany Ariffin, Jing Chen, Junko Takita, Takahiko Yasuda, Hiroyuki Mano, Bertil Johansson, Jun J. Yang, Allen Eng-Juh Yeoh, Fumihiko Hayakawa, Zhu Chen, Ching-Hon Pui, Thoas Fioretos, Sai-Juan Chen, Jin-Yan Huang. Transcriptional landscape of B cell precursor acute lymphoblastic leukemia based on an international study of 1,223 cases. **Proceedings of the National Academy of Sciences**. 2018. doi:10.1073/pnas.1814397115. PubMed PMID: 30487223
 - Dawei Wang, Guowei Zhang, Junjie Gu, Xiaohu Shao, Yuting Dai, **Jianfeng Li**, Xiaohong Pan, Shuxian Yao, Aining Xu, Ying Jin, Jinyan Huang, Qizhen Shi, Jiang Zhu, Xiaodong Xi, Zhu Chen, and Saijuan Chen. In vivo generated hematopoietic stem cells from genome edited induced pluripotent stem cells are functional in platelet-targeted gene therapy of murine hemophilia A. **Haematologica**. 2019. doi: 10.3324/haematol.2019.219089. PubMed PMID: 31296582
-- Yi Zhou, Xingli Zhu, Yuting Dai, Shumin Xiong, Chuijin Wei, Pei Yu, Yuewen Tang, Liang Wu, **Jianfeng Li**, Dan Liu, Yanlin Wang, Zhu Chen, Sai-Juan Chen,Jinyan Huang, and Lin Cheng, Chemical Cocktail Induces Hematopoietic Reprogramming and Expands Hematopoietic Stem/Progenitor Cells. **Advanced Science**. 2019, 1901785. doi: 10.1002/advs.201901785
+- Yi Zhou, Xingli Zhu, Yuting Dai, Shumin Xiong, Chuijin Wei, Pei Yu, Yuewen Tang, Liang Wu, **Jianfeng Li**, Dan Liu, Yanlin Wang, Zhu Chen, Sai-Juan Chen,Jinyan Huang, and Lin Cheng. Chemical Cocktail Induces Hematopoietic Reprogramming and Expands Hematopoietic Stem/Progenitor Cells. **Advanced Science**. 2019, 1901785. doi: 10.1002/advs.201901785
+- Xiong Jie, Cui Bo-Wen, Wang Nan, Dai Yu-Ting, Zhang Hao, Wang Chao-Fu, Zhong Hui-Juan, Cheng Shu, Ou-Yang Bin-Shen, Hu Yu, Zhang Xi, Xu Bin, Qian Wen-Bin, Tao Rong, Yan Feng, Hu Jian-Da, Hou Ming, Ma Xue-Jun, Wang Xin, Liu Yuan-Hua, Zhu Zun-Min, Huang Xiao-Bin, Liu Li, Wu Chong-Yang, Huang Li, Shen Yun-Feng, Huang Rui-Bin, Xu Jing-Yan, Wang Chun, Wu De-Pei, Yu Li, **Li Jian-Feng**, Xu Peng-Peng, Wang Li, Huang Jin-Yan, Chen Sai-Juan, Zhao Wei-Li. Genomic and Transcriptomic Characterization of Natural Killer T Cell Lymphoma. **Cancer Cell** . 2019. doi: 10.1016/j.ccell.2020.02.005
 
 #### Colloquium papers
 
